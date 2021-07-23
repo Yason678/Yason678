@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yason678
 - 👀 I’m interested in building apps & software
-- 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on a project that focuses one security
+- 🌱 I’m currently learning CPP
+- 💞️ I’m looking to collaborate on a project that focuses on security
 - 📫 How to reach me michealjason502@gmail.com
 
 <!---
